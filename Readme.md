@@ -1,5 +1,7 @@
 # Overview of the Project
 
+This project utilizes the Crunchbase database in order to deleve into the relationship of funding and viablity.  Python, Panadas, Matplotlib are utilized to run this analysis.
+
 StartUp Viability Assessment
 1)	What is the average Duration of Startups
 2)	What is the Average Investment $
@@ -12,18 +14,4 @@ StartUp Viability Assessment
 
 
 
-Cross Reference with Jobs posted for start up
-https://www.programmableweb.com/category/jobs/apis?category=20080
-What is the prediction of Growth: Employees #?
-What is the a measure of Growth: Number of Job Postings?
-
-
-Parameters for Crunchbase - What endpoints are these fields contained within?
-Founded Date:
-Number of Employees:
-Location:
-Series of Funding:
-Closed Date:
-Acquired Date:
-IPO Date:
 
